@@ -83,9 +83,82 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=DGEAFBXW
 
+[Document3]
+DocumentPath=..\..\..\..\Lawantar\Downloads\output_generate_settings_4layers.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [GeneratedDocument1]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.G1
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GM
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GP1
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=..\gerber temp\Gerbers\ANT_Controller_mag.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument14]
 DocumentPath=Project Outputs for ANT_Controller_mag\Design Rule Check - PCB2.html
 DItemRevisionGUID=
+
+[Parameter1]
+Name=BoardVer
+Value=Rev 1.0
 
 [Configuration1]
 Name=Sources
@@ -1020,10 +1093,6 @@ SelectedOnly=0
 UpdateVariants=1
 UpdateToLatestRevision=1
 PartTypes=0
-
-[NetInfos]
-Net1=NetName=3V3|NetColor=$006E6EFF
-Net2=NetName=GND|NetColor=$00FF6E6E
 
 [Comparison Options]
 ComparisonOptions0=Kind=Net|MinPercent=75|MinMatch=3|ShowMatch=0|UseName=-1|InclAllRules=0
